@@ -2,10 +2,6 @@
 
 Tic Tac Toe technical challenge
 
-## Installation
-
-Download from https://github.com/hi55/tictactoe
-
 ## Usage
 
 Run the project directly, via `:main-opts` (`-m hi55.tictactoe`):
